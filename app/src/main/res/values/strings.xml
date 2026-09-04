@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Decoder</string>
+    <string name="buttonDec">Decode</string>
+    <string name="buttonGetFile">Get File</string>
+    <string name="TextHint">Key</string>
+    <string name="TextHintType">Type</string>
+
+</resources>
