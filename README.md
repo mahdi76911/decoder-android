@@ -1,4 +1,4 @@
-# Decoder (MyApplication)
+# Decoder
 
 A small Android **file decoder** utility written in Java. It decodes large
 files on background threads so the UI never blocks, and uses the modern
